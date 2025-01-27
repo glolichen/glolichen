@@ -3,3 +3,5 @@
 - More interesting things here...
 
 ![things](https://api.githubtrends.io/user/svg/glolichen/langs?time_range=one_year&theme=dark)
+
+![other things](https://api.githubtrends.io/user/svg/glolichen/repos?time_range=one_year&loc_metric=changed&theme=dark)
